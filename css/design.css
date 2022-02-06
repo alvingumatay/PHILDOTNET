@@ -1,0 +1,29 @@
+.glyphicon-th-list{
+        font-size: 30px;
+        color: white;
+        list-style: none;
+      }
+      .badge{
+        font-size: 15px;
+        margin-bottom: 25px;
+        background-color: red;
+      }
+   @media(max-width:768px) {
+    .glyphicon-th-list{
+        font-size: 30px;
+        color: white;
+        list-style: none;
+        float: none; 
+        
+      }
+      .badge{
+        font-size: 15px;
+        margin-bottom: 25px;
+        background-color: red;
+        float: none; 
+       
+      }
+      
+    
+
+   }
